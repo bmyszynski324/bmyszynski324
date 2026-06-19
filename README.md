@@ -9,7 +9,7 @@
 ### 🚀 O mnie
 
 - 🎯 **Cel:** Zostać Junior Developerem
-- 🛠️ **Aktualnie uczę się:** Java (OOP, Collections, File I/O), Elasticsearch/Kibana
+- 🛠️ **Aktualnie uczę się:** Java, Elasticsearch/Kibana
 - 📚 **Buduję portfolio:** projekty od gry RPG po automatyzację plików
 - 💡 **Podejście:** Najlepiej uczę się rozkładając problemy na proste kroki
 
