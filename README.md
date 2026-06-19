@@ -38,9 +38,9 @@
 
 ### 📌 Wybrane projekty
 
-- 🎮 **[warhammer40k-rpg](https://github.com/bmyszynski324/warhammer40k-rpg)** — tekstowa gra RPG w Javie (OOP, dziedziczenie, interfejsy, enkapsulacja)
-- 🗂️ **[auto-rename-files](https://github.com/bmyszynski324/auto-rename-files)** — skrypt Python do automatycznego nazywania plików graficznych
-- ✅ **[task-manager-java](https://github.com/bmyszynski324/task-manager-java)** — system zarządzania zadaniami (Collections, File I/O, Comparable, daty)
+- 🎮 **[warhammer40k-rpg](https://github.com/bmyszynski324/warhammer40k-rpg)** - tekstowa gra RPG w Javie (OOP, dziedziczenie, interfejsy, enkapsulacja)
+- 🗂️ **[auto-rename-files](https://github.com/bmyszynski324/auto-rename-files)** - skrypt Python do automatycznego nazywania plików graficznych
+- ✅ **[task-manager-java](https://github.com/bmyszynski324/task-manager-java)** - system zarządzania zadaniami (Collections, File I/O, Comparable, daty)
 
 ---
 
